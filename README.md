@@ -1,4 +1,10 @@
-# Osiris+
+# BetterOsiris+
+
+## BetterOsiris Readme Start
+
+This is just a version of osiris+ with the modules rearranged correctly
+
+## BetterOsiris Readme End
 
 An actively maintained fork of Finz0's Osiris!
 Join the discord - https://discord.gg/PmM6B68
